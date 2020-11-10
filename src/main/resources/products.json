@@ -1,0 +1,22 @@
+[
+  {
+    "productId" : "1",
+    "name" : "Apple IPhone 12 Pro",
+    "desc" : "Lastest Phone please buy",
+    "productPictures" : ["https://example.com/abc.jpg","https://example.com/xyz.jpg"],
+    "count" : 20,
+    "price" : 55000.50,
+    "productStatus" : "ACTIVE",
+    "features" : [{"ram" :  "8 GB"},{"cpu" :  "Snapdragon"},{"launch year" : "2020"}]
+  },
+  {
+    "productId" : "2",
+    "name" : "One Plus 8",
+    "desc" : "Lastest Phone please buy",
+    "productPictures" : ["https://example.com/abc.jpg","https://example.com/xyz.jpg"],
+    "count" : 3,
+    "price" : 98000.50,
+    "productStatus" : "ACTIVE",
+    "features" : [{"ram" :  "6 GB"},{"cpu" :  "MediaTek"},{"launch year" : "2020"}]
+  }
+]
